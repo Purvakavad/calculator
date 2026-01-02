@@ -16,5 +16,5 @@ http://purvakavad.github.io/calculator/
 - JavaScript
 
 ## 📸 Preview
-screenshot/calculator.png
+https://github.com/Purvakavad/calculator/blob/main/screenshot/calculator.png
 
